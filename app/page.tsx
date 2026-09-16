@@ -68,7 +68,7 @@ export default function Home() {
             href="https://nextjs.org/blog?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
             rel="noopener noreferrer"
           >
-            About
+            About Me
           </a>
         </div>
       </main>
